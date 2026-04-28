@@ -37,18 +37,11 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Stats de Salome](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+![Stats de Salome](https://github-readme-stats.vercel.app/api?username=Salome0119&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Salome0119&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Contacto y Redes
-
-¡Me encantaría conectar contigo y colaborar en proyectos innovadores!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://TU_PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
 ---
 ¡Gracias por visitar mi perfil! 🚀  
