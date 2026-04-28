@@ -35,6 +35,16 @@
 
 ---
 
+## 🤝 Habilidades Blandas
+
+- 🗣️ **Comunicación Asertiva:** Capacidad para explicar conceptos técnicos de forma clara.
+- 👥 **Trabajo en Equipo:** Colaboración efectiva en entornos multidisciplinarios.
+- 🧩 **Resolución de Problemas:** Enfoque analítico para encontrar soluciones eficientes.
+- ⚖️ **Ética Profesional:** Compromiso con la calidad y la responsabilidad en cada proyecto.
+- 💡 **Pensamiento Crítico:** Evaluación constante para la mejora de procesos y sistemas.
+
+---
+
 ## 📈 Estadísticas de GitHub
 
 ![Stats de Salome](https://github-readme-stats.vercel.app/api?username=Salome0119&show_icons=true&theme=radical)
@@ -42,6 +52,4 @@
 
 ---
 
-
----
-¡Gracias por visitar mi perfil! 🚀  
+¡Gracias por visitar mi perfil! 🚀
